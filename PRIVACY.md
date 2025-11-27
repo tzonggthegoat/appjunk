@@ -36,13 +36,3 @@ For questions about this privacy policy, please open an issue on our GitHub repo
 ---
 
 *A comprehensive privacy policy will be published before DISCOVR's public release.*
-```
-
-To add this to your repo, you can either:
-
-1. Create the file directly on GitHub (Add file → Create new file → name it `PRIVACY.md`)
-2. Or I can help you push it via terminal if you prefer
-
-Once it's in your repo, use this as your privacy policy URL:
-```
-https://github.com/YOUR_USERNAME/discovr/blob/main/PRIVACY.md
